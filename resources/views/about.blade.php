@@ -327,8 +327,7 @@
                                                 <div class="elementor-text-editor elementor-clearfix">
                                                     <p>
                                                         <strong>TRON Marketing (PG0495501-M)</strong> is your trusted online source for the web’s best and most innovative
-                                                        <a href="http://gohat-studio.com/service/corporate-website/">Web design</a> and <a href="http://gohat-studio.com/service/ecommerce/">eCommerce</a> website solutions. We offer real
-                                                        world website solutions that can increase your company’s online presence and offer you the chance to find targeted customers and make more sales. Our wide array of web services was
+                                                        Website design and Web/App development solutions. We offer real world website solutions that can increase your company’s online presence and offer you the chance to find targeted customers and make more sales. Our wide array of web services was
                                                         designed to ensure your continued success and positioning in the global market.
                                                     </p>
                                                 </div>

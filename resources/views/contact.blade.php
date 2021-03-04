@@ -231,38 +231,6 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-70423c85 elementor-hidden-tablet elementor-hidden-phone" data-id="70423c85" data-element_type="column">
-                            <div class="elementor-column-wrap elementor-element-populated">
-                                <div class="elementor-widget-wrap">
-                                    <div
-                                        class="elementor-element elementor-element-6ac606c4 e-grid-align-right elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons"
-                                        data-id="6ac606c4"
-                                        data-element_type="widget"
-                                        data-widget_type="social-icons.default"
-                                    >
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-social-icons-wrapper elementor-grid">
-                                                <div class="elementor-grid-item">
-                                                    <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-e7679ed" href="https://www.facebook.com/gohat4u" target="_blank">
-                                                        <span class="elementor-screen-only">Facebook</span> <i class="fab fa-facebook"></i>
-                                                    </a>
-                                                </div>
-                                                <div class="elementor-grid-item">
-                                                    <a class="elementor-icon elementor-social-icon elementor-social-icon-telegram elementor-repeater-item-7a99745" href="https://t.me/gohatstudio" target="_blank">
-                                                        <span class="elementor-screen-only">Telegram</span> <i class="fab fa-telegram"></i>
-                                                    </a>
-                                                </div>
-                                                <div class="elementor-grid-item">
-                                                    <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-messenger elementor-repeater-item-91ef91d" href="http://m.me/gohat4u" target="_blank">
-                                                        <span class="elementor-screen-only">Facebook-messenger</span> <i class="fab fa-facebook-messenger"></i>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </section>
@@ -399,40 +367,6 @@
                                 <div class="elementor-column-wrap elementor-element-populated">
                                     <div class="elementor-widget-wrap">
                                         <section
-                                            class="elementor-section elementor-inner-section elementor-element elementor-element-3198cf37 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                            data-id="3198cf37"
-                                            data-element_type="section"
-                                        >
-                                            <div class="elementor-container elementor-column-gap-no">
-                                                <div class="elementor-row">
-                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-25e57a3f" data-id="25e57a3f" data-element_type="column">
-                                                        <div class="elementor-column-wrap elementor-element-populated">
-                                                            <div class="elementor-widget-wrap">
-                                                                <div
-                                                                    class="elementor-element elementor-element-3d782025 elementor-widget elementor-widget-heading"
-                                                                    data-id="3d782025"
-                                                                    data-element_type="widget"
-                                                                    data-widget_type="heading.default"
-                                                                >
-                                                                    <div class="elementor-widget-container"><h3 class="elementor-heading-title elementor-size-default">Headquarters</h3></div>
-                                                                </div>
-                                                                <div
-                                                                    class="elementor-element elementor-element-7605d947 elementor-widget elementor-widget-text-editor"
-                                                                    data-id="7605d947"
-                                                                    data-element_type="widget"
-                                                                    data-widget_type="text-editor.default"
-                                                                >
-                                                                    <div class="elementor-widget-container">
-                                                                        <div class="elementor-text-editor elementor-clearfix"><p>50, Jalan Bunga Ros, Taman Kulai Utama, 81000 Kulai, Johor</p></div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </section>
-                                        <section
                                             class="elementor-section elementor-inner-section elementor-element elementor-element-4fb5c50d elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                                             data-id="4fb5c50d"
                                             data-element_type="section"
@@ -493,8 +427,8 @@
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-text-editor elementor-clearfix">
                                                                             <p>
-                                                                                <a href="mailto:support@gohat-studio.com">support@gohat-studio.com</a><br />
-                                                                                <a href="tel:60172142431">+6017 214 2431</a>
+                                                                                <a href="https://wa.me/601159131210"><span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fab fa-whatsapp"></i> </span> <span class="elementor-icon-list-text">Whatsapp</span></a><br />
+                                                                                <a href="tel:601159131210">+6011 591 31210</a>
                                                                             </p>
                                                                         </div>
                                                                     </div>
