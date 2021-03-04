@@ -78,7 +78,7 @@
                                     <div class="elementor-widget-container">
                                         <ul class="elementor-icon-list-items">
                                             <li class="elementor-icon-list-item">
-                                                <a href="https://wa.me/60172142431">
+                                                <a href="https://wa.me/601159131210">
                                                     <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fab fa-whatsapp"></i> </span> <span class="elementor-icon-list-text">Whatsapp</span>
                                                 </a>
                                             </li>
@@ -103,8 +103,8 @@
                                     <div class="elementor-widget-container">
                                         <ul class="elementor-icon-list-items">
                                             <li class="elementor-icon-list-item">
-                                                <a href="tel:60172142431">
-                                                    <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-phone"></i> </span> <span class="elementor-icon-list-text">+6017 214 2431</span>
+                                                <a href="tel:601159131210">
+                                                    <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-phone"></i> </span> <span class="elementor-icon-list-text">+601159131210</span>
                                                 </a>
                                             </li>
                                         </ul>
