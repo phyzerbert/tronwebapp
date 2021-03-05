@@ -49,9 +49,6 @@
                                                 <a href="{{route('contact')}}"> <span class="elementor-icon-list-text">Contact</span> </a>
                                             </li>
                                             <li class="elementor-icon-list-item">
-                                                <a href="#"> <span class="elementor-icon-list-text">Term &amp; Conditions</span> </a>
-                                            </li>
-                                            <li class="elementor-icon-list-item">
                                                 <a href="#"> <span class="elementor-icon-list-text">Private Policy</span> </a>
                                             </li>
                                             <li class="elementor-icon-list-item">
