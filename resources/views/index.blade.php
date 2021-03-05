@@ -76,9 +76,6 @@
                                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1932">
                                                                         <a href="{{route('logo_design')}}" class="elementor-sub-item">Logo Design</a>
                                                                     </li>
-                                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1934">
-                                                                        <a href="{{route('name_card_design')}}" class="elementor-sub-item">Name Card Design</a>
-                                                                    </li>
                                                                 </ul>
                                                             </li>
                                                         </ul>
@@ -179,14 +176,11 @@
                                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1932">
                                                                         <a href="{{route('logo_design')}}" class="elementor-sub-item">Logo Design</a>
                                                                     </li>
-                                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1934">
-                                                                        <a href="{{route('name_card_design')}}" class="elementor-sub-item">Name Card Design</a>
-                                                                    </li>
                                                                 </ul>
                                                             </li>
                                                         </ul>
                                                     </li>
-                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1926"><a href="https://gohat-studio.com/contact/" class="elementor-item">Contact</a></li>
+                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1926"><a href="{{route('contact')}}" class="elementor-item">Contact</a></li>
                                                 </ul>
                                             </nav>
                                             <div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
@@ -215,14 +209,11 @@
                                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1932">
                                                                         <a href="{{route('logo_design')}}" class="elementor-sub-item">Logo Design</a>
                                                                     </li>
-                                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1934">
-                                                                        <a href="{{route('name_card_design')}}" class="elementor-sub-item">Name Card Design</a>
-                                                                    </li>
                                                                 </ul>
                                                             </li>
                                                         </ul>
                                                     </li>
-                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1926"><a href="https://gohat-studio.com/contact/" class="elementor-item">Contact</a></li>
+                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1926"><a href="{{route('contact')}}" class="elementor-item">Contact</a></li>
                                                 </ul>
                                             </nav>
                                         </div>

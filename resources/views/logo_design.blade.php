@@ -89,14 +89,11 @@
                                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page-item-277 current_page_item menu-item-1932">
                                                                         <a href="{{route('logo_design')}}" class="elementor-sub-item elementor-item-active">Logo Design</a>
                                                                     </li>
-                                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1934">
-                                                                        <a href="{{route('name_card_design')}}" class="elementor-sub-item">Name Card Design</a>
-                                                                    </li>
                                                                 </ul>
                                                             </li>
                                                         </ul>
                                                     </li>
-                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1926"><a href="https://gohat-studio.com/contact/" class="elementor-item">Contact</a></li>
+                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1926"><a href="{{route('contact')}}" class="elementor-item">Contact</a></li>
                                                 </ul>
                                             </nav>
                                             <div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false" style="">
@@ -130,9 +127,6 @@
                                                                 <ul class="sub-menu elementor-nav-menu--dropdown" id="sm-16147985652091938-8" role="group" aria-hidden="true" aria-labelledby="sm-16147985652091938-7" aria-expanded="false">
                                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1932">
                                                                         <a href="{{route('logo_design')}}" class="elementor-sub-item">Logo Design</a>
-                                                                    </li>
-                                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1934">
-                                                                        <a href="{{route('name_card_design')}}" class="elementor-sub-item">Name Card Design</a>
                                                                     </li>
                                                                 </ul>
                                                             </li>
@@ -192,9 +186,6 @@
                                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1932">
                                                                         <a href="{{route('logo_design')}}" class="elementor-sub-item">Logo Design</a>
                                                                     </li>
-                                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1934">
-                                                                        <a href="{{route('name_card_design')}}" class="elementor-sub-item">Name Card Design</a>
-                                                                    </li>
                                                                 </ul>
                                                             </li>
                                                         </ul>
@@ -227,9 +218,6 @@
                                                                 <ul class="sub-menu elementor-nav-menu--dropdown">
                                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1932">
                                                                         <a href="{{route('logo_design')}}" class="elementor-sub-item">Logo Design</a>
-                                                                    </li>
-                                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1934">
-                                                                        <a href="{{route('name_card_design')}}" class="elementor-sub-item">Name Card Design</a>
                                                                     </li>
                                                                 </ul>
                                                             </li>
@@ -1085,6 +1073,66 @@
                 </div>
             </section>
             <section
+                class="elementor-section elementor-top-section elementor-element elementor-element-1841333b elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                data-id="1841333b"
+                data-element_type="section"
+                data-settings='{"background_background":"classic"}'
+            >
+                <div class="elementor-container elementor-column-gap-default">
+                    <div class="elementor-row">
+                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-10a290b2" data-id="10a290b2" data-element_type="column">
+                            <div class="elementor-column-wrap elementor-element-populated">
+                                <div class="elementor-widget-wrap">
+                                    <div class="elementor-element elementor-element-2580e40 elementor-widget elementor-widget-heading" data-id="2580e40" data-element_type="widget" data-widget_type="heading.default">
+                                        <div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">Do more with us! We provide website design services too</h2></div>
+                                    </div>
+                                    <div class="elementor-element elementor-element-29612788 elementor-widget elementor-widget-text-editor" data-id="29612788" data-element_type="widget" data-widget_type="text-editor.default">
+                                        <div class="elementor-widget-container">
+                                            <div class="elementor-text-editor elementor-clearfix">
+                                                <div class="vc_row wpb_row vc_row-fluid vc_row-o-content-middle vc_row-flex" data-vc-full-width="true" data-vc-full-width-init="true">
+                                                    <div class="wpb_column vc_column_container vc_col-sm-6">
+                                                        <div class="vc_column-inner">
+                                                            <div class="wpb_wrapper">
+                                                                <section class="vc_cta3-container">
+                                                                    <div class="vc_general vc_cta3 vc_cta3-style-custom vc_cta3-shape-square vc_cta3-align-left vc_cta3-icon-size-md vc_cta3-actions-bottom">
+                                                                        <div class="vc_cta3_content-container">
+                                                                            <div class="vc_cta3-content">
+                                                                                <p>
+                                                                                    Built by our experts, from <strong>RM 33</strong><br />
+                                                                                    Include: Professional hosting, copywriting, stock photos, 12 months of website services and SEO-friendly design
+                                                                                </p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </section>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div
+                                        class="elementor-element elementor-element-10df66b5 elementor-align-center elementor-mobile-align-justify elementor-widget elementor-widget-button"
+                                        data-id="10df66b5"
+                                        data-element_type="widget"
+                                        data-widget_type="button.default"
+                                    >
+                                        <div class="elementor-widget-container">
+                                            <div class="elementor-button-wrapper">
+                                                <a href="http://gohat-studio.com/website-design-and-development/" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-float" role="button">
+                                                    <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">See Corporate Website Plan</span> </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section
                 class="elementor-section elementor-top-section elementor-element elementor-element-cef1832 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                 data-id="cef1832"
                 data-element_type="section"
@@ -1312,273 +1360,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
-            <section
-                class="elementor-section elementor-top-section elementor-element elementor-element-1841333b elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                data-id="1841333b"
-                data-element_type="section"
-                data-settings='{"background_background":"classic"}'
-            >
-                <div class="elementor-container elementor-column-gap-default">
-                    <div class="elementor-row">
-                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-10a290b2" data-id="10a290b2" data-element_type="column">
-                            <div class="elementor-column-wrap elementor-element-populated">
-                                <div class="elementor-widget-wrap">
-                                    <div class="elementor-element elementor-element-2580e40 elementor-widget elementor-widget-heading" data-id="2580e40" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">Do more with us! We provide website design services too</h2></div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-29612788 elementor-widget elementor-widget-text-editor" data-id="29612788" data-element_type="widget" data-widget_type="text-editor.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-text-editor elementor-clearfix">
-                                                <div class="vc_row wpb_row vc_row-fluid vc_row-o-content-middle vc_row-flex" data-vc-full-width="true" data-vc-full-width-init="true">
-                                                    <div class="wpb_column vc_column_container vc_col-sm-6">
-                                                        <div class="vc_column-inner">
-                                                            <div class="wpb_wrapper">
-                                                                <section class="vc_cta3-container">
-                                                                    <div class="vc_general vc_cta3 vc_cta3-style-custom vc_cta3-shape-square vc_cta3-align-left vc_cta3-icon-size-md vc_cta3-actions-bottom">
-                                                                        <div class="vc_cta3_content-container">
-                                                                            <div class="vc_cta3-content">
-                                                                                <p>
-                                                                                    Built by our experts, from <strong>RM 33</strong><br />
-                                                                                    Include: Professional hosting, copywriting, stock photos, 12 months of website services and SEO-friendly design
-                                                                                </p>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </section>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div
-                                        class="elementor-element elementor-element-10df66b5 elementor-align-center elementor-mobile-align-justify elementor-widget elementor-widget-button"
-                                        data-id="10df66b5"
-                                        data-element_type="widget"
-                                        data-widget_type="button.default"
-                                    >
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-button-wrapper">
-                                                <a href="http://gohat-studio.com/website-design-and-development/" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-float" role="button">
-                                                    <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">See Corporate Website Plan</span> </span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <section
-                class="elementor-section elementor-top-section elementor-element elementor-element-6196a797 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                data-id="6196a797"
-                data-element_type="section"
-            >
-                <div class="elementor-container elementor-column-gap-default">
-                    <div class="elementor-row">
-                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c0f6982" data-id="c0f6982" data-element_type="column">
-                            <div class="elementor-column-wrap elementor-element-populated">
-                                <div class="elementor-widget-wrap">
-                                    <div class="elementor-element elementor-element-43485bef elementor-widget elementor-widget-heading" data-id="43485bef" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container"><h4 class="elementor-heading-title elementor-size-default">Choose your plan</h4></div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-4bea6088 elementor-widget elementor-widget-spacer" data-id="4bea6088" data-element_type="widget" data-widget_type="spacer.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div>
-                                        </div>
-                                    </div>
-                                    <section
-                                        class="elementor-section elementor-inner-section elementor-element elementor-element-1b58d68f elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                        data-id="1b58d68f"
-                                        data-element_type="section"
-                                    >
-                                        <div class="elementor-container elementor-column-gap-default">
-                                            <div class="elementor-row">
-                                                <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-23d793b4" data-id="23d793b4" data-element_type="column">
-                                                    <div class="elementor-column-wrap elementor-element-populated">
-                                                        <div class="elementor-widget-wrap">
-                                                            <div
-                                                                class="elementor-element elementor-element-1cfe115 elementor-widget elementor-widget-price-table"
-                                                                data-id="1cfe115"
-                                                                data-element_type="widget"
-                                                                data-widget_type="price-table.default"
-                                                            >
-                                                                <div class="elementor-widget-container">
-                                                                    <div class="elementor-price-table">
-                                                                        <div class="elementor-price-table__header"><h3 class="elementor-price-table__heading">Intern Designer</h3></div>
-                                                                        <div class="elementor-price-table__price">
-                                                                            <div class="elementor-price-table__original-price elementor-typo-excluded">RM800</div>
-                                                                            <span class="elementor-price-table__currency elementor-currency--before">RM</span> <span class="elementor-price-table__integer-part">298</span>
-                                                                            <span class="elementor-price-table__period elementor-typo-excluded">One time fees</span>
-                                                                        </div>
-                                                                        <ul class="elementor-price-table__features-list">
-                                                                            <li class="elementor-repeater-item-7a66f2d">
-                                                                                <div class="elementor-price-table__feature-inner"><i aria-hidden="true" class="far fa-check-circle"></i> <span> Intern Designer </span></div>
-                                                                            </li>
-                                                                            <li class="elementor-repeater-item-b69df5d">
-                                                                                <div class="elementor-price-table__feature-inner"><i aria-hidden="true" class="far fa-check-circle"></i> <span> Unlimited Revision </span></div>
-                                                                            </li>
-                                                                            <li class="elementor-repeater-item-4b2142e">
-                                                                                <div class="elementor-price-table__feature-inner"><i aria-hidden="true" class="far fa-check-circle"></i> <span> 2 Concept Logo </span></div>
-                                                                            </li>
-                                                                            <li class="elementor-repeater-item-848b4ef">
-                                                                                <div class="elementor-price-table__feature-inner">
-                                                                                    <i aria-hidden="true" class="far fa-check-circle"></i> <span> JPEG, PNG &amp; Source Files Vector </span>
-                                                                                </div>
-                                                                            </li>
-                                                                            <li class="elementor-repeater-item-2e2c106">
-                                                                                <div class="elementor-price-table__feature-inner"><i aria-hidden="true" class="far fa-check-circle"></i> <span> Custom Professional LOGO </span></div>
-                                                                            </li>
-                                                                            <li class="elementor-repeater-item-0222579">
-                                                                                <div class="elementor-price-table__feature-inner">
-                                                                                    <i aria-hidden="true" class="far fa-check-circle"></i> <span> High-resolution JPG and PNG transparent formats </span>
-                                                                                </div>
-                                                                            </li>
-                                                                        </ul>
-                                                                        <div class="elementor-price-table__footer">
-                                                                            <a
-                                                                                class="elementor-price-table__button elementor-button elementor-size-md"
-                                                                                href="https://api.whatsapp.com/send/?phone=60172142431&amp;text=Hi,%20I%27m%20interest%20with%20your%20LOGO%20Design%20(Intern%20Designer)"
-                                                                                target="_blank"
-                                                                                rel="noopener"
-                                                                            >
-                                                                                CHOOSE
-                                                                            </a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-28e910c3" data-id="28e910c3" data-element_type="column">
-                                                    <div class="elementor-column-wrap elementor-element-populated">
-                                                        <div class="elementor-widget-wrap">
-                                                            <div
-                                                                class="elementor-element elementor-element-75ff5a4 elementor-widget elementor-widget-price-table"
-                                                                data-id="75ff5a4"
-                                                                data-element_type="widget"
-                                                                data-widget_type="price-table.default"
-                                                            >
-                                                                <div class="elementor-widget-container">
-                                                                    <div class="elementor-price-table">
-                                                                        <div class="elementor-price-table__header"><h3 class="elementor-price-table__heading">Senior Designer</h3></div>
-                                                                        <div class="elementor-price-table__price">
-                                                                            <div class="elementor-price-table__original-price elementor-typo-excluded">RM1000</div>
-                                                                            <span class="elementor-price-table__currency elementor-currency--before">RM</span> <span class="elementor-price-table__integer-part">498</span>
-                                                                            <span class="elementor-price-table__period elementor-typo-excluded">One time fees</span>
-                                                                        </div>
-                                                                        <ul class="elementor-price-table__features-list">
-                                                                            <li class="elementor-repeater-item-7a66f2d">
-                                                                                <div class="elementor-price-table__feature-inner"><i aria-hidden="true" class="far fa-check-circle"></i> <span> Senior Designer </span></div>
-                                                                            </li>
-                                                                            <li class="elementor-repeater-item-b69df5d">
-                                                                                <div class="elementor-price-table__feature-inner"><i aria-hidden="true" class="far fa-check-circle"></i> <span> Unlimited Revision </span></div>
-                                                                            </li>
-                                                                            <li class="elementor-repeater-item-4b2142e">
-                                                                                <div class="elementor-price-table__feature-inner"><i aria-hidden="true" class="far fa-check-circle"></i> <span> 2 Concept Logo </span></div>
-                                                                            </li>
-                                                                            <li class="elementor-repeater-item-848b4ef">
-                                                                                <div class="elementor-price-table__feature-inner">
-                                                                                    <i aria-hidden="true" class="far fa-check-circle"></i> <span> JPEG, PNG &amp; Source Files Vector </span>
-                                                                                </div>
-                                                                            </li>
-                                                                            <li class="elementor-repeater-item-2e2c106">
-                                                                                <div class="elementor-price-table__feature-inner"><i aria-hidden="true" class="far fa-check-circle"></i> <span> Custom Professional LOGO </span></div>
-                                                                            </li>
-                                                                            <li class="elementor-repeater-item-0222579">
-                                                                                <div class="elementor-price-table__feature-inner">
-                                                                                    <i aria-hidden="true" class="far fa-check-circle"></i> <span> High-resolution JPG and PNG transparent formats </span>
-                                                                                </div>
-                                                                            </li>
-                                                                        </ul>
-                                                                        <div class="elementor-price-table__footer">
-                                                                            <a
-                                                                                class="elementor-price-table__button elementor-button elementor-size-md"
-                                                                                href="https://api.whatsapp.com/send/?phone=60172142431&amp;text=Hi,%20I%27m%20interest%20with%20your%20LOGO%20Design%20(Senior%20Designer)"
-                                                                                target="_blank"
-                                                                                rel="noopener"
-                                                                            >
-                                                                                CHOOSE
-                                                                            </a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6c855b59" data-id="6c855b59" data-element_type="column">
-                                                    <div class="elementor-column-wrap elementor-element-populated">
-                                                        <div class="elementor-widget-wrap">
-                                                            <div
-                                                                class="elementor-element elementor-element-738b40d elementor-widget elementor-widget-price-table"
-                                                                data-id="738b40d"
-                                                                data-element_type="widget"
-                                                                data-widget_type="price-table.default"
-                                                            >
-                                                                <div class="elementor-widget-container">
-                                                                    <div class="elementor-price-table">
-                                                                        <div class="elementor-price-table__header"><h3 class="elementor-price-table__heading">Expert Designer</h3></div>
-                                                                        <div class="elementor-price-table__price">
-                                                                            <div class="elementor-price-table__original-price elementor-typo-excluded">RM1500</div>
-                                                                            <span class="elementor-price-table__currency elementor-currency--before">RM</span> <span class="elementor-price-table__integer-part">598</span>
-                                                                            <span class="elementor-price-table__period elementor-typo-excluded">One time fees</span>
-                                                                        </div>
-                                                                        <ul class="elementor-price-table__features-list">
-                                                                            <li class="elementor-repeater-item-7a66f2d">
-                                                                                <div class="elementor-price-table__feature-inner"><i aria-hidden="true" class="far fa-check-circle"></i> <span> Expert Designer </span></div>
-                                                                            </li>
-                                                                            <li class="elementor-repeater-item-b69df5d">
-                                                                                <div class="elementor-price-table__feature-inner"><i aria-hidden="true" class="far fa-check-circle"></i> <span> Unlimited Revision </span></div>
-                                                                            </li>
-                                                                            <li class="elementor-repeater-item-4b2142e">
-                                                                                <div class="elementor-price-table__feature-inner"><i aria-hidden="true" class="far fa-check-circle"></i> <span> 2 Concept Logo </span></div>
-                                                                            </li>
-                                                                            <li class="elementor-repeater-item-848b4ef">
-                                                                                <div class="elementor-price-table__feature-inner">
-                                                                                    <i aria-hidden="true" class="far fa-check-circle"></i> <span> JPEG, PNG &amp; Source Files Vector </span>
-                                                                                </div>
-                                                                            </li>
-                                                                            <li class="elementor-repeater-item-2e2c106">
-                                                                                <div class="elementor-price-table__feature-inner"><i aria-hidden="true" class="far fa-check-circle"></i> <span> Custom Professional LOGO </span></div>
-                                                                            </li>
-                                                                            <li class="elementor-repeater-item-0222579">
-                                                                                <div class="elementor-price-table__feature-inner">
-                                                                                    <i aria-hidden="true" class="far fa-check-circle"></i> <span> High-resolution JPG and PNG transparent formats </span>
-                                                                                </div>
-                                                                            </li>
-                                                                        </ul>
-                                                                        <div class="elementor-price-table__footer">
-                                                                            <a
-                                                                                class="elementor-price-table__button elementor-button elementor-size-md"
-                                                                                href="https://api.whatsapp.com/send/?phone=60172142431&amp;text=Hi,%20I%27m%20interest%20with%20your%20LOGO%20Design%20(Expert%20Designer)"
-                                                                                target="_blank"
-                                                                                rel="noopener"
-                                                                            >
-                                                                                CHOOSE
-                                                                            </a>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="elementor-price-table__ribbon"><div class="elementor-price-table__ribbon-inner">Popular</div></div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </section>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+            </section>            
             <section
                 class="elementor-section elementor-top-section elementor-element elementor-element-238eb7 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                 data-id="238eb7"

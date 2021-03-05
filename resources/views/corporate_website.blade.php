@@ -89,14 +89,11 @@
                                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1932">
                                                                         <a href="{{route('logo_design')}}" class="elementor-sub-item">Logo Design</a>
                                                                     </li>
-                                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1934">
-                                                                        <a href="{{route('name_card_design')}}" class="elementor-sub-item">Name Card Design</a>
-                                                                    </li>
                                                                 </ul>
                                                             </li>
                                                         </ul>
                                                     </li>
-                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1926"><a href="https://gohat-studio.com/contact/" class="elementor-item">Contact</a></li>
+                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1926"><a href="{{route('contact')}}" class="elementor-item">Contact</a></li>
                                                 </ul>
                                             </nav>
                                             <div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false" style="">
@@ -130,9 +127,6 @@
                                                                 <ul class="sub-menu elementor-nav-menu--dropdown" id="sm-16147985652091938-8" role="group" aria-hidden="true" aria-labelledby="sm-16147985652091938-7" aria-expanded="false">
                                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1932">
                                                                         <a href="{{route('logo_design')}}" class="elementor-sub-item">Logo Design</a>
-                                                                    </li>
-                                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1934">
-                                                                        <a href="{{route('name_card_design')}}" class="elementor-sub-item">Name Card Design</a>
                                                                     </li>
                                                                 </ul>
                                                             </li>
@@ -192,9 +186,6 @@
                                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1932">
                                                                         <a href="{{route('logo_design')}}" class="elementor-sub-item">Logo Design</a>
                                                                     </li>
-                                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1934">
-                                                                        <a href="{{route('name_card_design')}}" class="elementor-sub-item">Name Card Design</a>
-                                                                    </li>
                                                                 </ul>
                                                             </li>
                                                         </ul>
@@ -227,9 +218,6 @@
                                                                 <ul class="sub-menu elementor-nav-menu--dropdown">
                                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1932">
                                                                         <a href="{{route('logo_design')}}" class="elementor-sub-item">Logo Design</a>
-                                                                    </li>
-                                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1934">
-                                                                        <a href="{{route('name_card_design')}}" class="elementor-sub-item">Name Card Design</a>
                                                                     </li>
                                                                 </ul>
                                                             </li>
@@ -1104,6 +1092,45 @@
                 </div>
             </section>
             <section
+                class="elementor-section elementor-top-section elementor-element elementor-element-3194127d elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                data-id="3194127d"
+                data-element_type="section"
+                data-settings='{"background_background":"classic"}'
+            >
+                <div class="elementor-container elementor-column-gap-default">
+                    <div class="elementor-row">
+                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-66fe942e" data-id="66fe942e" data-element_type="column">
+                            <div class="elementor-column-wrap elementor-element-populated">
+                                <div class="elementor-widget-wrap">
+                                    <div class="elementor-element elementor-element-5dadf5f2 elementor-widget elementor-widget-heading" data-id="5dadf5f2" data-element_type="widget" data-widget_type="heading.default">
+                                        <div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">Looking to build an eCommerce website instead?</h2></div>
+                                    </div>
+                                    <div class="elementor-element elementor-element-1eae8345 elementor-widget elementor-widget-text-editor" data-id="1eae8345" data-element_type="widget" data-widget_type="text-editor.default">
+                                        <div class="elementor-widget-container">
+                                            <div class="elementor-text-editor elementor-clearfix"><p>Checkout out eCommerce plan that could help on your business transformation</p></div>
+                                        </div>
+                                    </div>
+                                    <div
+                                        class="elementor-element elementor-element-531c20b2 elementor-align-center elementor-mobile-align-justify elementor-widget elementor-widget-button"
+                                        data-id="531c20b2"
+                                        data-element_type="widget"
+                                        data-widget_type="button.default"
+                                    >
+                                        <div class="elementor-widget-container">
+                                            <div class="elementor-button-wrapper">
+                                                <a href="http://gohat-studio.com/ecommerce/" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-float" role="button">
+                                                    <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">See E-Commerce Plan</span> </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section
                 class="elementor-section elementor-top-section elementor-element elementor-element-476f9f74 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                 data-id="476f9f74"
                 data-element_type="section"
@@ -1461,613 +1488,6 @@
                 </div>
             </section>
             <section
-                class="elementor-section elementor-top-section elementor-element elementor-element-3194127d elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                data-id="3194127d"
-                data-element_type="section"
-                data-settings='{"background_background":"classic"}'
-            >
-                <div class="elementor-container elementor-column-gap-default">
-                    <div class="elementor-row">
-                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-66fe942e" data-id="66fe942e" data-element_type="column">
-                            <div class="elementor-column-wrap elementor-element-populated">
-                                <div class="elementor-widget-wrap">
-                                    <div class="elementor-element elementor-element-5dadf5f2 elementor-widget elementor-widget-heading" data-id="5dadf5f2" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">Looking to build an eCommerce website instead?</h2></div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-1eae8345 elementor-widget elementor-widget-text-editor" data-id="1eae8345" data-element_type="widget" data-widget_type="text-editor.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-text-editor elementor-clearfix"><p>Checkout out eCommerce plan that could help on your business transformation</p></div>
-                                        </div>
-                                    </div>
-                                    <div
-                                        class="elementor-element elementor-element-531c20b2 elementor-align-center elementor-mobile-align-justify elementor-widget elementor-widget-button"
-                                        data-id="531c20b2"
-                                        data-element_type="widget"
-                                        data-widget_type="button.default"
-                                    >
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-button-wrapper">
-                                                <a href="http://gohat-studio.com/ecommerce/" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-float" role="button">
-                                                    <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">See E-Commerce Plan</span> </span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <section
-                class="elementor-section elementor-top-section elementor-element elementor-element-662e6e2d elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                data-id="662e6e2d"
-                data-element_type="section"
-            >
-                <div class="elementor-container elementor-column-gap-default">
-                    <div class="elementor-row">
-                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7870be09" data-id="7870be09" data-element_type="column">
-                            <div class="elementor-column-wrap elementor-element-populated">
-                                <div class="elementor-widget-wrap">
-                                    <div class="elementor-element elementor-element-7770823c elementor-widget elementor-widget-heading" data-id="7770823c" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container"><h4 class="elementor-heading-title elementor-size-default">Choose your plan</h4></div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-d74b6d6 elementor-widget elementor-widget-spacer" data-id="d74b6d6" data-element_type="widget" data-widget_type="spacer.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div>
-                                        </div>
-                                    </div>
-                                    <section
-                                        class="elementor-section elementor-inner-section elementor-element elementor-element-1c60d504 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                        data-id="1c60d504"
-                                        data-element_type="section"
-                                    >
-                                        <div class="elementor-container elementor-column-gap-default">
-                                            <div class="elementor-row">
-                                                <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1d1542c3" data-id="1d1542c3" data-element_type="column">
-                                                    <div class="elementor-column-wrap elementor-element-populated">
-                                                        <div class="elementor-widget-wrap">
-                                                            <div
-                                                                class="elementor-element elementor-element-c3cba65 elementor-widget elementor-widget-jet-pricing-table"
-                                                                data-id="c3cba65"
-                                                                data-element_type="widget"
-                                                                data-widget_type="jet-pricing-table.default"
-                                                            >
-                                                                <div class="elementor-widget-container">
-                                                                    <div class="elementor-jet-pricing-table jet-elements">
-                                                                        <div
-                                                                            class="pricing-table"
-                                                                            data-tooltips-settings='{"tooltipPlacement":"top","tooltipArrow":true,"tooltipArrowType":"sharp","tooltipArrowSize":"scale(1)","tooltipTrigger":"mouseenter","tooltipShowDuration":{"unit":"ms","size":500,"sizes":[]},"tooltipHideDuration":{"unit":"ms","size":300,"sizes":[]},"tooltipDelay":{"unit":"ms","size":0,"sizes":[]},"tooltipDistance":{"unit":"px","size":15,"sizes":[]},"tooltipAnimation":"shift-toward"}'
-                                                                        >
-                                                                            <div class="pricing-table__heading">
-                                                                                <h2 class="pricing-table__title">Startup</h2>
-                                                                                <h4 class="pricing-table__subtitle">A single landing page for business startup with simple product descriptions.</h4>
-                                                                            </div>
-                                                                            <div class="pricing-table__price">
-                                                                                <span class="pricing-table__price-prefix"><del>RM1500</del></span><span class="pricing-table__price-val">RM498</span>
-                                                                                <span class="pricing-table__price-suffix">/one time fees</span>
-                                                                                <p class="pricing-table__price-desc">Renewal fees RM398 only</p>
-                                                                            </div>
-                                                                            <div class="pricing-table__features">
-                                                                                <div
-                                                                                    class="pricing-table__fold-mask"
-                                                                                    data-fold-settings='{"fold_enabled":true,"unfoldDuration":{"unit":"ms","size":500,"sizes":[]},"foldDuration":{"unit":"ms","size":300,"sizes":[]},"unfoldEasing":"easeOutBack","foldEasing":"easeOutSine"}'
-                                                                                    style="height: 252px; max-height: none;"
-                                                                                >
-                                                                                    <div class="pricing-feature pricing-feature-0dc8d7f item-included fold_visible">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="Number of pages on the site">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text"><b>1 Page Website</b></span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-900dcab item-included fold_visible">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="Website will be ready in 5 Business days">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text"><b>Ready In 5 Business Days</b></span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-b7c9765 item-included fold_visible">
-                                                                                        <div
-                                                                                            class="pricing-feature__inner"
-                                                                                            data-tippy=""
-                                                                                            data-original-title="Each minor change will be based on the time you spend on the change, thus deducting your Maintenance Hours"
-                                                                                        >
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text"><b>1 hours of website updating services per year</b></span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-c12bf1c item-included fold_visible">
-                                                                                        <div
-                                                                                            class="pricing-feature__inner"
-                                                                                            data-tippy=""
-                                                                                            data-original-title="We will make an instructional video specifically for your website so that you can better understand your website"
-                                                                                        >
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Video Tutorial</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-05efe25 item-included fold_visible fold_visible_last">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="Free first year Domain .COM / .MY / .COM.MY">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Free Domain .COM / .MY / .COM.MY</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-122aad6 item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="On the cell phone will have a different layout">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Mobile Optimized</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-37bba47 item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="On the tablet will look different layout">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Tablet Optimized</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-7890d0b item-included">
-                                                                                        <div class="pricing-feature__inner">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Professional design and copywriting specially crafted for your business</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-95d0d9b item-included">
-                                                                                        <div
-                                                                                            class="pricing-feature__inner"
-                                                                                            data-tippy=""
-                                                                                            data-original-title="the website we develop is definitely SEO friendly, which is, fast loading wepages, URLs user friendly for every webpages, make the website compatible for all devices"
-                                                                                        >
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Search Engine Optimization (SEO) Friendly</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-19e0b50 item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="We provide daily backups to safeguard your website">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Free Daily Backup</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-181fd2c item-included">
-                                                                                        <div class="pricing-feature__inner">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">SSL Security Included</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-613980c item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="If Needed">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Google Analytics – Free setup</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-a7b9e3b item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="If Needed">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Facebook Pixel - Free setup</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-1171d46 item-included">
-                                                                                        <div class="pricing-feature__inner">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Image with Usage right license</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-1e7e03b item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="We install firewall for your website to secure your website">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Website Firewall</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-c5e4519 item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="We Security system for your website to secure your website">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Security system</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-5e64d10 item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="Professional email is ???@yourdomain">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">1 Professional Email</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="pricing-table__fold-trigger">
-                                                                                    <div
-                                                                                        class="pricing-table__fold-button elementor-button elementor-size-md"
-                                                                                        role="button"
-                                                                                        data-unfold-text="Show"
-                                                                                        data-fold-text="Hide"
-                                                                                        data-fold-icon='<i aria-hidden="true" class="fas fa-chevron-up"></i>'
-                                                                                        data-unfold-icon='<i aria-hidden="true" class="fas fa-chevron-down"></i>'
-                                                                                    >
-                                                                                        <span class="pricing-table__fold-button-icon jet-elements-icon"><i aria-hidden="true" class="fas fa-chevron-down"></i></span>
-                                                                                        <span class="pricing-table__fold-button-text">Show</span>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="pricing-table__action">
-                                                                                <a
-                                                                                    class="elementor-button elementor-size-md pricing-table-button button-auto-size"
-                                                                                    href="https://api.whatsapp.com/send/?phone=60172142431&amp;text=Hi,%20I%27m%20interest%20with%20your%20Corporate%20Website%20plan%20(starup)"
-                                                                                    target="_blank"
-                                                                                    rel="noopener"
-                                                                                >
-                                                                                    Choose
-                                                                                </a>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-22870f9" data-id="22870f9" data-element_type="column">
-                                                    <div class="elementor-column-wrap elementor-element-populated">
-                                                        <div class="elementor-widget-wrap">
-                                                            <div
-                                                                class="elementor-element elementor-element-6ad8c15 elementor-widget elementor-widget-jet-pricing-table"
-                                                                data-id="6ad8c15"
-                                                                data-element_type="widget"
-                                                                data-widget_type="jet-pricing-table.default"
-                                                            >
-                                                                <div class="elementor-widget-container">
-                                                                    <div class="elementor-jet-pricing-table jet-elements">
-                                                                        <div
-                                                                            class="pricing-table"
-                                                                            data-tooltips-settings='{"tooltipPlacement":"top","tooltipArrow":true,"tooltipArrowType":"sharp","tooltipArrowSize":"scale(1)","tooltipTrigger":"mouseenter","tooltipShowDuration":{"unit":"ms","size":500,"sizes":[]},"tooltipHideDuration":{"unit":"ms","size":300,"sizes":[]},"tooltipDelay":{"unit":"ms","size":0,"sizes":[]},"tooltipDistance":{"unit":"px","size":15,"sizes":[]},"tooltipAnimation":"shift-toward"}'
-                                                                        >
-                                                                            <div class="pricing-table__heading">
-                                                                                <h2 class="pricing-table__title">Premium</h2>
-                                                                                <h4 class="pricing-table__subtitle">
-                                                                                    Professional websites – <br />
-                                                                                    suitable for business showcase with optimized content.
-                                                                                </h4>
-                                                                            </div>
-                                                                            <div class="pricing-table__price">
-                                                                                <span class="pricing-table__price-prefix"><del>RM2500</del></span><span class="pricing-table__price-val">RM998</span>
-                                                                                <span class="pricing-table__price-suffix">/one time fees</span>
-                                                                                <p class="pricing-table__price-desc">Renewal fees RM498 only</p>
-                                                                            </div>
-                                                                            <div class="pricing-table__features">
-                                                                                <div
-                                                                                    class="pricing-table__fold-mask"
-                                                                                    data-fold-settings='{"fold_enabled":true,"unfoldDuration":{"unit":"ms","size":500,"sizes":[]},"foldDuration":{"unit":"ms","size":300,"sizes":[]},"unfoldEasing":"easeOutBack","foldEasing":"easeOutSine"}'
-                                                                                    style="height: 252px; max-height: none;"
-                                                                                >
-                                                                                    <div class="pricing-feature pricing-feature-0dc8d7f item-included fold_visible">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="Number of pages on the site">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text"><b>5 Page Website</b></span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-900dcab item-included fold_visible">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="Website will be ready in 8 Business days">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text"><b>Ready In 8 Business Days</b></span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-b7c9765 item-included fold_visible">
-                                                                                        <div
-                                                                                            class="pricing-feature__inner"
-                                                                                            data-tippy=""
-                                                                                            data-original-title="Each minor change will be based on the time you spend on the change, thus deducting your Maintenance Hours"
-                                                                                        >
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text"><b>2 hours of website updating services per year</b></span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-c12bf1c item-included fold_visible">
-                                                                                        <div
-                                                                                            class="pricing-feature__inner"
-                                                                                            data-tippy=""
-                                                                                            data-original-title="We will make an instructional video specifically for your website so that you can better understand your website"
-                                                                                        >
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Video Tutorial</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-05efe25 item-included fold_visible fold_visible_last">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="Free first year Domain .COM / .MY / .COM.MY">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Free Domain .COM / .MY / .COM.MY</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-122aad6 item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="On the cell phone will have a different layout">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Mobile Optimized</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-37bba47 item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="On the tablet will look different layout">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Tablet Optimized</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-7890d0b item-included">
-                                                                                        <div class="pricing-feature__inner">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Professional design and copywriting specially crafted for your business</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-95d0d9b item-included">
-                                                                                        <div
-                                                                                            class="pricing-feature__inner"
-                                                                                            data-tippy=""
-                                                                                            data-original-title="the website we develop is definitely SEO friendly, which is, fast loading wepages, URLs user friendly for every webpages, make the website compatible for all devices"
-                                                                                        >
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Search Engine Optimization (SEO) Friendly</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-19e0b50 item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="We provide daily backups to safeguard your website">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Free Daily Backup</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-181fd2c item-included">
-                                                                                        <div class="pricing-feature__inner">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">SSL Security Included</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-613980c item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="If Needed">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Google Analytics – Free setup</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-a7b9e3b item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="If Needed">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Facebook Pixel - Free setup</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-1171d46 item-included">
-                                                                                        <div class="pricing-feature__inner">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Image with Usage right license</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-1e7e03b item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="We install firewall for your website to secure your website">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Website Firewall</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-c5e4519 item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="We Security system for your website to secure your website">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Security system</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-5e64d10 item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="Professional email is ???@yourdomain">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">1 Professional Email</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="pricing-table__fold-trigger">
-                                                                                    <div
-                                                                                        class="pricing-table__fold-button elementor-button elementor-size-md"
-                                                                                        role="button"
-                                                                                        data-unfold-text="Show"
-                                                                                        data-fold-text="Hide"
-                                                                                        data-fold-icon='<i aria-hidden="true" class="fas fa-chevron-up"></i>'
-                                                                                        data-unfold-icon='<i aria-hidden="true" class="fas fa-chevron-down"></i>'
-                                                                                    >
-                                                                                        <span class="pricing-table__fold-button-icon jet-elements-icon"><i aria-hidden="true" class="fas fa-chevron-down"></i></span>
-                                                                                        <span class="pricing-table__fold-button-text">Show</span>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="pricing-table__action">
-                                                                                <a
-                                                                                    class="elementor-button elementor-size-md pricing-table-button button-auto-size"
-                                                                                    href="https://api.whatsapp.com/send/?phone=60172142431&amp;text=Hi,%20I%27m%20interest%20with%20your%20Corporate%20Website%20plan%20(Premium)"
-                                                                                    target="_blank"
-                                                                                    rel="noopener"
-                                                                                >
-                                                                                    Choose
-                                                                                </a>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2aa7c23d" data-id="2aa7c23d" data-element_type="column">
-                                                    <div class="elementor-column-wrap elementor-element-populated">
-                                                        <div class="elementor-widget-wrap">
-                                                            <div
-                                                                class="elementor-element elementor-element-7708aff elementor-widget elementor-widget-jet-pricing-table"
-                                                                data-id="7708aff"
-                                                                data-element_type="widget"
-                                                                data-widget_type="jet-pricing-table.default"
-                                                            >
-                                                                <div class="elementor-widget-container">
-                                                                    <div class="elementor-jet-pricing-table jet-elements">
-                                                                        <div
-                                                                            class="pricing-table"
-                                                                            data-tooltips-settings='{"tooltipPlacement":"top","tooltipArrow":true,"tooltipArrowType":"sharp","tooltipArrowSize":"scale(1)","tooltipTrigger":"mouseenter","tooltipShowDuration":{"unit":"ms","size":500,"sizes":[]},"tooltipHideDuration":{"unit":"ms","size":300,"sizes":[]},"tooltipDelay":{"unit":"ms","size":0,"sizes":[]},"tooltipDistance":{"unit":"px","size":15,"sizes":[]},"tooltipAnimation":"shift-toward"}'
-                                                                        >
-                                                                            <div class="pricing-table__heading">
-                                                                                <h2 class="pricing-table__title">Advanced</h2>
-                                                                                <h4 class="pricing-table__subtitle">
-                                                                                    Website loading speed is 10X faster –<br />
-                                                                                    with SSD hosting.
-                                                                                </h4>
-                                                                            </div>
-                                                                            <div class="pricing-table__price">
-                                                                                <span class="pricing-table__price-prefix"><del>RM3000</del></span><span class="pricing-table__price-val">RM1498</span>
-                                                                                <span class="pricing-table__price-suffix">/one time fees</span>
-                                                                                <p class="pricing-table__price-desc">Renewal fees RM498 only</p>
-                                                                            </div>
-                                                                            <div class="pricing-table__features">
-                                                                                <div
-                                                                                    class="pricing-table__fold-mask"
-                                                                                    data-fold-settings='{"fold_enabled":true,"unfoldDuration":{"unit":"ms","size":500,"sizes":[]},"foldDuration":{"unit":"ms","size":300,"sizes":[]},"unfoldEasing":"easeOutBack","foldEasing":"easeOutSine"}'
-                                                                                    style="height: 252px; max-height: none;"
-                                                                                >
-                                                                                    <div class="pricing-feature pricing-feature-0dc8d7f item-included fold_visible">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="Number of pages on the site">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text"><b>10 Pages Website</b></span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-900dcab item-included fold_visible">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="Website will be ready in 14 Business days">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text"><b>Ready In 14 Business Days</b></span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-b7c9765 item-included fold_visible">
-                                                                                        <div
-                                                                                            class="pricing-feature__inner"
-                                                                                            data-tippy=""
-                                                                                            data-original-title="Each minor change will be based on the time you spend on the change, thus deducting your Maintenance Hours"
-                                                                                        >
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text"><b>6 hours of website updating services per year</b></span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-c12bf1c item-included fold_visible">
-                                                                                        <div
-                                                                                            class="pricing-feature__inner"
-                                                                                            data-tippy=""
-                                                                                            data-original-title="We will make an instructional video specifically for your website so that you can better understand your website"
-                                                                                        >
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Video Tutorial</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-05efe25 item-included fold_visible fold_visible_last">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="Free first year Domain .COM / .MY / .COM.MY">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Free Domain .COM / .MY / .COM.MY</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-122aad6 item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="On the cell phone will have a different layout">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Mobile Optimized</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-37bba47 item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="On the tablet will look different layout">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Tablet Optimized</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-7890d0b item-included">
-                                                                                        <div class="pricing-feature__inner">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Professional design and copywriting specially crafted for your business</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-95d0d9b item-included">
-                                                                                        <div
-                                                                                            class="pricing-feature__inner"
-                                                                                            data-tippy=""
-                                                                                            data-original-title="the website we develop is definitely SEO friendly, which is, fast loading wepages, URLs user friendly for every webpages, make the website compatible for all devices"
-                                                                                        >
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Search Engine Optimization (SEO) Friendly</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-19e0b50 item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="We provide daily backups to safeguard your website">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Free Daily Backup</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-181fd2c item-included">
-                                                                                        <div class="pricing-feature__inner">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">SSL Security Included</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-613980c item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="If Needed">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Google Analytics – Free setup</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-a7b9e3b item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="If Needed">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Facebook Pixel - Free setup</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-1171d46 item-included">
-                                                                                        <div class="pricing-feature__inner">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Image with Usage right license</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-1e7e03b item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="We install firewall for your website to secure your website">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Website Firewall</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-c5e4519 item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="We Security system for your website to secure your website">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">Security system</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="pricing-feature pricing-feature-5e64d10 item-included">
-                                                                                        <div class="pricing-feature__inner" data-tippy="" data-original-title="Professional email is ???@yourdomain">
-                                                                                            <span class="item-bullet jet-elements-icon"><i aria-hidden="true" class="fas fa-check"></i></span>
-                                                                                            <span class="pricing-feature__text">1 Professional Email</span>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="pricing-table__fold-trigger">
-                                                                                    <div
-                                                                                        class="pricing-table__fold-button elementor-button elementor-size-md"
-                                                                                        role="button"
-                                                                                        data-unfold-text="Show"
-                                                                                        data-fold-text="Hide"
-                                                                                        data-fold-icon='<i aria-hidden="true" class="fas fa-chevron-up"></i>'
-                                                                                        data-unfold-icon='<i aria-hidden="true" class="fas fa-chevron-down"></i>'
-                                                                                    >
-                                                                                        <span class="pricing-table__fold-button-icon jet-elements-icon"><i aria-hidden="true" class="fas fa-chevron-down"></i></span>
-                                                                                        <span class="pricing-table__fold-button-text">Show</span>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="pricing-table__action">
-                                                                                <a
-                                                                                    class="elementor-button elementor-size-md pricing-table-button button-auto-size"
-                                                                                    href="https://api.whatsapp.com/send/?phone=60172142431&amp;text=Hi,%20I%27m%20interest%20with%20your%20Corporate%20Website%20plan%20(advanced)"
-                                                                                    target="_blank"
-                                                                                    rel="noopener"
-                                                                                >
-                                                                                    Choose
-                                                                                </a>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </section>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <section
                 class="elementor-section elementor-top-section elementor-element elementor-element-4e932068 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                 data-id="4e932068"
                 data-element_type="section"
@@ -2097,201 +1517,6 @@
                                                 <a href="{{route('contact')}}" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-float" role="button">
                                                     <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Contact Us</span> </span>
                                                 </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <section
-                class="elementor-section elementor-top-section elementor-element elementor-element-644711ca elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                data-id="644711ca"
-                data-element_type="section"
-                data-settings='{"background_background":"classic"}'
-            >
-                <div class="elementor-container elementor-column-gap-default">
-                    <div class="elementor-row">
-                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3bc9d8a3" data-id="3bc9d8a3" data-element_type="column">
-                            <div class="elementor-column-wrap elementor-element-populated">
-                                <div class="elementor-widget-wrap">
-                                    <div class="elementor-element elementor-element-2874bc3 elementor-widget elementor-widget-heading" data-id="2874bc3" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">Questions</h2></div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-18ac42fe elementor-widget elementor-widget-heading" data-id="18ac42fe" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">Frequently Asked Questions for Website Design</h2></div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-75cf6521 elementor-widget elementor-widget-spacer" data-id="75cf6521" data-element_type="widget" data-widget_type="spacer.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-120d143 elementor-widget elementor-widget-toggle" data-id="120d143" data-element_type="widget" data-widget_type="toggle.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-toggle" role="tablist">
-                                                <div class="elementor-toggle-item">
-                                                    <div id="elementor-tab-title-1891" class="elementor-tab-title" data-tab="1" role="tab" aria-controls="elementor-tab-content-1891" tabindex="-1" aria-selected="false">
-                                                        <span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
-                                                            <span class="elementor-toggle-icon-closed"><i class="fas fa-caret-right"></i></span>
-                                                            <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
-                                                        </span>
-                                                        <a href="" class="elementor-toggle-title">How is the website design service charge?</a>
-                                                    </div>
-                                                    <div
-                                                        id="elementor-tab-content-1891"
-                                                        class="elementor-tab-content elementor-clearfix"
-                                                        data-tab="1"
-                                                        role="tabpanel"
-                                                        aria-labelledby="elementor-tab-title-1891"
-                                                        style="display: none;"
-                                                        hidden="hidden"
-                                                    >
-                                                        <p>We will charge only one-time payment on website design services. And for recurring, you only need to pay for the domain and web hosting renewal costs.</p>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-toggle-item">
-                                                    <div id="elementor-tab-title-1892" class="elementor-tab-title" data-tab="2" role="tab" aria-controls="elementor-tab-content-1892">
-                                                        <span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
-                                                            <span class="elementor-toggle-icon-closed"><i class="fas fa-caret-right"></i></span>
-                                                            <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
-                                                        </span>
-                                                        <a href="" class="elementor-toggle-title">How many pages of website design will I get?</a>
-                                                    </div>
-                                                    <div id="elementor-tab-content-1892" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1892">
-                                                        <p>
-                                                            We offer customized website design service for our clients. Our web consultant will contact you after received your order and introduce the suitable package to you based on your
-                                                            requirement.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-toggle-item">
-                                                    <div id="elementor-tab-title-1893" class="elementor-tab-title" data-tab="3" role="tab" aria-controls="elementor-tab-content-1893">
-                                                        <span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
-                                                            <span class="elementor-toggle-icon-closed"><i class="fas fa-caret-right"></i></span>
-                                                            <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
-                                                        </span>
-                                                        <a href="" class="elementor-toggle-title">When I will receive a call from GOHAT to start the discussion on web design?</a>
-                                                    </div>
-                                                    <div id="elementor-tab-content-1893" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-1893">
-                                                        <p>Once order is confirmed and payment is made, our consultant will have a conference call with you to understand your business within 7 working days from the payment date.</p>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-toggle-item">
-                                                    <div id="elementor-tab-title-1894" class="elementor-tab-title" data-tab="4" role="tab" aria-controls="elementor-tab-content-1894">
-                                                        <span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
-                                                            <span class="elementor-toggle-icon-closed"><i class="fas fa-caret-right"></i></span>
-                                                            <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
-                                                        </span>
-                                                        <a href="" class="elementor-toggle-title">When I can view my first draft website?</a>
-                                                    </div>
-                                                    <div id="elementor-tab-content-1894" class="elementor-tab-content elementor-clearfix" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1894">
-                                                        <p>Website design will take from 7 to 14 working days (depending on the plan you subscribe) after customer provide the full details &amp; images to copywriter for proofreading.</p>
-                                                        <p>
-                                                            Upon delivery of the draft website, client must inform GOHAT of all the revisions/amendments needed within 7 working days. Only three revision request are allowed. Any additional
-                                                            revisions/amendments will be charged under maintenance hour. Failure to contact within 7 days means client is satisfied with the website, and we will publish the page directly.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-toggle-item">
-                                                    <div id="elementor-tab-title-1895" class="elementor-tab-title" data-tab="5" role="tab" aria-controls="elementor-tab-content-1895">
-                                                        <span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
-                                                            <span class="elementor-toggle-icon-closed"><i class="fas fa-caret-right"></i></span>
-                                                            <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
-                                                        </span>
-                                                        <a href="" class="elementor-toggle-title">After I confirm the website, can I request the amendment again?</a>
-                                                    </div>
-                                                    <div id="elementor-tab-content-1895" class="elementor-tab-content elementor-clearfix" data-tab="5" role="tabpanel" aria-labelledby="elementor-tab-title-1895">
-                                                        <p>Yes, after website is confirmed and published, any request for amendments will be charged under maintenance hour.</p>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-toggle-item">
-                                                    <div id="elementor-tab-title-1896" class="elementor-tab-title" data-tab="6" role="tab" aria-controls="elementor-tab-content-1896">
-                                                        <span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
-                                                            <span class="elementor-toggle-icon-closed"><i class="fas fa-caret-right"></i></span>
-                                                            <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
-                                                        </span>
-                                                        <a href="" class="elementor-toggle-title">If I refuse to pay for maintenance charges, can I update my website by myself?</a>
-                                                    </div>
-                                                    <div id="elementor-tab-content-1896" class="elementor-tab-content elementor-clearfix" data-tab="6" role="tabpanel" aria-labelledby="elementor-tab-title-1896">
-                                                        <p>
-                                                            Yes, we will provide the access on Content Management System to clients, which allow you to edit page content, add in new pages or perform other update activities. But, if any
-                                                            failure on updates, GOHAT will not take any responsibilities on it.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-toggle-item">
-                                                    <div id="elementor-tab-title-1897" class="elementor-tab-title" data-tab="7" role="tab" aria-controls="elementor-tab-content-1897">
-                                                        <span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
-                                                            <span class="elementor-toggle-icon-closed"><i class="fas fa-caret-right"></i></span>
-                                                            <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
-                                                        </span>
-                                                        <a href="" class="elementor-toggle-title">Can I edit certain design code myself?</a>
-                                                    </div>
-                                                    <div id="elementor-tab-content-1897" class="elementor-tab-content elementor-clearfix" data-tab="7" role="tabpanel" aria-labelledby="elementor-tab-title-1897">
-                                                        <p>Kindly note that if client edited the content/code themselves, GOHAT reserves the right to refuse any troubleshooting or code/content update request.</p>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-toggle-item">
-                                                    <div id="elementor-tab-title-1898" class="elementor-tab-title" data-tab="8" role="tab" aria-controls="elementor-tab-content-1898" tabindex="0" aria-selected="true">
-                                                        <span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
-                                                            <span class="elementor-toggle-icon-closed"><i class="fas fa-caret-right"></i></span>
-                                                            <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
-                                                        </span>
-                                                        <a href="" class="elementor-toggle-title">Can I request for refund?</a>
-                                                    </div>
-                                                    <div
-                                                        id="elementor-tab-content-1898"
-                                                        class="elementor-tab-content elementor-clearfix"
-                                                        data-tab="8"
-                                                        role="tabpanel"
-                                                        aria-labelledby="elementor-tab-title-1898"
-                                                    >
-                                                        <p>Strictly NO REFUND is allowed after confirmation and payment.</p>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-toggle-item">
-                                                    <div id="elementor-tab-title-1899" class="elementor-tab-title" data-tab="9" role="tab" aria-controls="elementor-tab-content-1899">
-                                                        <span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
-                                                            <span class="elementor-toggle-icon-closed"><i class="fas fa-caret-right"></i></span>
-                                                            <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
-                                                        </span>
-                                                        <a href="" class="elementor-toggle-title">If I don't renew my service after the end of subscription, can I still keep the website?</a>
-                                                    </div>
-                                                    <div id="elementor-tab-content-1899" class="elementor-tab-content elementor-clearfix" data-tab="9" role="tabpanel" aria-labelledby="elementor-tab-title-1899">
-                                                        <p>
-                                                            Your website will remain published as long as you renew your domain and web hosting. For more enquiries regarding this, please feel free to contact our&nbsp;
-                                                            <a class="chat-link">sales consultants</a>.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-toggle-item">
-                                                    <div id="elementor-tab-title-18910" class="elementor-tab-title" data-tab="10" role="tab" aria-controls="elementor-tab-content-18910">
-                                                        <span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
-                                                            <span class="elementor-toggle-icon-closed"><i class="fas fa-caret-right"></i></span>
-                                                            <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
-                                                        </span>
-                                                        <a href="" class="elementor-toggle-title">When will my website be published?</a>
-                                                    </div>
-                                                    <div id="elementor-tab-content-18910" class="elementor-tab-content elementor-clearfix" data-tab="10" role="tabpanel" aria-labelledby="elementor-tab-title-18910">
-                                                        <p>
-                                                            Your website will be published within 30 days after the website draft is ready. The 30-day period of revision is final, and we regret to inform that no extension will be allowed.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-toggle-item">
-                                                    <div id="elementor-tab-title-18911" class="elementor-tab-title" data-tab="11" role="tab" aria-controls="elementor-tab-content-18911">
-                                                        <span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
-                                                            <span class="elementor-toggle-icon-closed"><i class="fas fa-caret-right"></i></span>
-                                                            <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
-                                                        </span>
-                                                        <a href="" class="elementor-toggle-title">Once the website draft is ready, how many rounds of revision are allowed?</a>
-                                                    </div>
-                                                    <div id="elementor-tab-content-18911" class="elementor-tab-content elementor-clearfix" data-tab="11" role="tabpanel" aria-labelledby="elementor-tab-title-18911">
-                                                        <p>Customers may request up to 3 rounds of revision after the website draft is ready.</p>
-                                                    </div>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
