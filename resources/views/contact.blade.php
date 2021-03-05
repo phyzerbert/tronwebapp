@@ -294,15 +294,15 @@
                                             data-widget_type="form.default"
                                         >
                                             <div class="elementor-widget-container">
-                                                <form class="elementor-form" method="post" name="New Form">
-                                                    <input type="hidden" name="post_id" value="41" /> <input type="hidden" name="form_id" value="4552be7a" /> <input type="hidden" name="queried_id" value="41" />
+                                                <form action="{{route('send_contact_email')}}" class="" method="post" name="New Form">
+                                                    @csrf
                                                     <div class="elementor-form-fields-wrapper elementor-labels-">
                                                         <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100 elementor-field-required">
                                                             <label for="form-field-name" class="elementor-field-label elementor-screen-only">Name</label>
                                                             <input
                                                                 size="1"
                                                                 type="text"
-                                                                name="form_fields[name]"
+                                                                name="name"
                                                                 id="form-field-name"
                                                                 class="elementor-field elementor-size-sm elementor-field-textual"
                                                                 placeholder="Name"
@@ -315,7 +315,7 @@
                                                             <input
                                                                 size="1"
                                                                 type="email"
-                                                                name="form_fields[email]"
+                                                                name="email"
                                                                 id="form-field-email"
                                                                 class="elementor-field elementor-size-sm elementor-field-textual"
                                                                 placeholder="Email"
@@ -326,8 +326,8 @@
                                                         <div class="elementor-field-type-number elementor-field-group elementor-column elementor-field-group-field_9ebd2d2 elementor-col-100 elementor-field-required">
                                                             <label for="form-field-field_9ebd2d2" class="elementor-field-label elementor-screen-only">Mobile Number</label>
                                                             <input
-                                                                type="number"
-                                                                name="form_fields[field_9ebd2d2]"
+                                                                type="text"
+                                                                name="phone_number"
                                                                 id="form-field-field_9ebd2d2"
                                                                 class="elementor-field elementor-size-sm elementor-field-textual"
                                                                 placeholder="Mobile Number"
@@ -339,12 +339,12 @@
                                                         </div>
                                                         <div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
                                                             <label for="form-field-message" class="elementor-field-label elementor-screen-only">Message</label>
-                                                            <textarea class="elementor-field-textual elementor-field elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Message"></textarea>
+                                                            <textarea class="elementor-field-textual elementor-field elementor-size-sm" name="message" id="form-field-message" rows="4" placeholder="Message"></textarea>
                                                         </div>
                                                         <div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
-                                                            <a href="mailto:oscarooi8635@gmail.com" target="_blank" class="elementor-button elementor-size-sm" style="display: flex;justify-content:center;">
+                                                            <button type="submit" class="elementor-button elementor-size-sm">
                                                                 <span> <span class="elementor-button-icon"> </span> <span class="elementor-button-text">Send</span> </span>
-                                                            </a>
+                                                            </button>
                                                         </div>
                                                     </div>
                                                 </form>
@@ -455,26 +455,6 @@
                                         </div>
                                         <div class="elementor-element elementor-element-18eb44dc elementor-widget elementor-widget-text-editor" data-id="18eb44dc" data-element_type="widget" data-widget_type="text-editor.default">
                                             <div class="elementor-widget-container"><div class="elementor-text-editor elementor-clearfix">Ready to take the next step and work together? Let’s work together</div></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1cf8f804" data-id="1cf8f804" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div
-                                            class="elementor-element elementor-element-258e8d0c elementor-mobile-align-justify elementor-widget elementor-widget-button"
-                                            data-id="258e8d0c"
-                                            data-element_type="widget"
-                                            data-widget_type="button.default"
-                                        >
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="http://gohat-studio.com/quotation/" class="elementor-button-link elementor-button elementor-size-lg" role="button">
-                                                        <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Get Free Quote</span> </span>
-                                                    </a>
-                                                </div>
-                                            </div>
                                         </div>
                                     </div>
                                 </div>
