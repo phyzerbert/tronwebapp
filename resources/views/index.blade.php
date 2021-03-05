@@ -64,7 +64,7 @@
                                                                 </a>
                                                                 <ul class="sub-menu elementor-nav-menu--dropdown" id="sm-16147886476310862-4" role="group" aria-hidden="true" aria-labelledby="sm-16147886476310862-3" aria-expanded="false">
                                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927">
-                                                                        <a href="{{route('corporate_website')}}" class="elementor-sub-item">Corporate Website</a>
+                                                                        <a href="{{route('corporate_website')}}" class="elementor-sub-item">Corporate Website/App</a>
                                                                     </li>
                                                                 </ul>
                                                             </li>
@@ -106,7 +106,7 @@
                                                                 </a>
                                                                 <ul class="sub-menu elementor-nav-menu--dropdown" id="sm-16147886476542107-4" role="group" aria-hidden="true" aria-labelledby="sm-16147886476542107-3" aria-expanded="false">                                                                    
                                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927">
-                                                                        <a href="/corporate_website.php" class="elementor-sub-item">Corporate Website</a>
+                                                                        <a href="/corporate_website.php" class="elementor-sub-item">Corporate Website/App</a>
                                                                     </li>
                                                                 </ul>
                                                             </li>
@@ -169,7 +169,7 @@
                                                                 <a class="elementor-sub-item">Website</a>
                                                                 <ul class="sub-menu elementor-nav-menu--dropdown">
                                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927">
-                                                                        <a href="{{route('corporate_website')}}" class="elementor-sub-item">Corporate Website</a>
+                                                                        <a href="{{route('corporate_website')}}" class="elementor-sub-item">Corporate Website/App</a>
                                                                     </li>
                                                                 </ul>
                                                             </li>
@@ -205,7 +205,7 @@
                                                                 <a class="elementor-sub-item">Website</a>
                                                                 <ul class="sub-menu elementor-nav-menu--dropdown">
                                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927">
-                                                                        <a href="{{route('corporate_website')}}" class="elementor-sub-item">Corporate Website</a>
+                                                                        <a href="{{route('corporate_website')}}" class="elementor-sub-item">Corporate Website/App</a>
                                                                     </li>
                                                                 </ul>
                                                             </li>
@@ -880,7 +880,7 @@
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-button-wrapper">
                                                             <a href="http://gohat-studio.com/website-design-and-development/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-                                                                <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Corporate Website</span> </span>
+                                                                <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Corporate Website/App</span> </span>
                                                             </a>
                                                         </div>
                                                     </div>
