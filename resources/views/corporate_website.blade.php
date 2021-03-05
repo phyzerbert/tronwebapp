@@ -1110,20 +1110,6 @@
                                             <div class="elementor-text-editor elementor-clearfix"><p>Checkout out eCommerce plan that could help on your business transformation</p></div>
                                         </div>
                                     </div>
-                                    <div
-                                        class="elementor-element elementor-element-531c20b2 elementor-align-center elementor-mobile-align-justify elementor-widget elementor-widget-button"
-                                        data-id="531c20b2"
-                                        data-element_type="widget"
-                                        data-widget_type="button.default"
-                                    >
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-button-wrapper">
-                                                <a href="http://gohat-studio.com/ecommerce/" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-float" role="button">
-                                                    <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">See E-Commerce Plan</span> </span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
                                 </div>
                             </div>
                         </div>
