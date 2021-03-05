@@ -128,10 +128,18 @@
                     </div>
                 </div>
             </div>
-            {{-- <div >
-                <img src="{{asset('assets/images/paypal.png')}}" style="width:100px;" alt="">
-                <img src="{{asset('assets/images/skrill.png')}}" style="width:100px;" alt="">
-            </div> --}}
+            <div class="elementor-container elementor-column-gap-default">
+                <div class="elementor-row">
+                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4857291" data-id="4857291" data-element_type="column">
+                        <div class="elementor-column-wrap elementor-element-populated">
+                            <div class="elementor-widget-wrap">
+                                <img src="{{asset('assets/images/paypal.png')}}" style="width:110px;height:35px;" alt="">
+                                <img src="{{asset('assets/images/skrill.png')}}" style="width:90px;height:35px;margin-left:50px;" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </section>
     </div>
 </div>
