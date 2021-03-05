@@ -14,7 +14,12 @@ class HomeController extends Controller
         $phone_number = $request->get('phone_number');
         $headers = "From: $from_email" . "\r\n";
         $subject = env('APP_NAME').' - Contact Email';
-        mail($to_email, $subject, $message, $headers);
+        try {
+            mail($to_email, $subject, $message, $headers);
+        } catch (\Throwable $th) {
+            dd($th);
+        }
+        
         return back()->with('success', 'Email was sent successfully!');
     }
 }
