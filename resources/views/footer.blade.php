@@ -82,6 +82,22 @@
                                         </ul>
                                     </div>
                                 </div>
+                                <div
+                                    class="elementor-element elementor-element-7d0e4b7d elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
+                                    data-id="7d0e4b7d"
+                                    data-element_type="widget"
+                                    data-widget_type="icon-list.default"
+                                >
+                                    <div class="elementor-widget-container">
+                                        <ul class="elementor-icon-list-items">
+                                            <li class="elementor-icon-list-item">
+                                                <a href="https://t.me//601159131210">
+                                                    <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fab fa-telegram"></i> </span> <span class="elementor-icon-list-text">Telegram</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -112,6 +128,10 @@
                     </div>
                 </div>
             </div>
+            {{-- <div >
+                <img src="{{asset('assets/images/paypal.png')}}" style="width:100px;" alt="">
+                <img src="{{asset('assets/images/skrill.png')}}" style="width:100px;" alt="">
+            </div> --}}
         </section>
     </div>
 </div>
