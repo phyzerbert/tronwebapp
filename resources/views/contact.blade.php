@@ -77,7 +77,6 @@
                                                                 </a>
                                                                 <ul class="sub-menu elementor-nav-menu--dropdown" id="sm-1614801634390549-8" role="group" aria-hidden="true" aria-labelledby="sm-1614801634390549-7" aria-expanded="false">
                                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1932"><a href="{{route('logo_design')}}" class="elementor-sub-item">Logo Design</a></li>
-                                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1934"><a href="{{route('name_card_design')}}" class="elementor-sub-item">Name Card Design</a></li>
                                                                 </ul>
                                                             </li>
                                                         </ul>

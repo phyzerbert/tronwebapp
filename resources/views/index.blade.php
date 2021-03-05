@@ -115,9 +115,6 @@
                                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1932">
                                                                         <a href="/logo_design.php" class="elementor-sub-item">Logo Design</a>
                                                                     </li>
-                                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1934">
-                                                                        <a href="/name_card_design.php" class="elementor-sub-item">Name Card Design</a>
-                                                                    </li>
                                                                 </ul>
                                                             </li>
                                                         </ul>
