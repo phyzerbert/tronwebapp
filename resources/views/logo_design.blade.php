@@ -1112,21 +1112,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div
-                                        class="elementor-element elementor-element-10df66b5 elementor-align-center elementor-mobile-align-justify elementor-widget elementor-widget-button"
-                                        data-id="10df66b5"
-                                        data-element_type="widget"
-                                        data-widget_type="button.default"
-                                    >
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-button-wrapper">
-                                                <a href="http://gohat-studio.com/website-design-and-development/" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-float" role="button">
-                                                    <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">See Corporate Website Plan</span> </span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>

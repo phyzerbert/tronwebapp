@@ -52,7 +52,7 @@
                                                 <a href="{{route('privacy_policy')}}"> <span class="elementor-icon-list-text">Private Policy</span> </a>
                                             </li>
                                             <li class="elementor-icon-list-item">
-                                                <a href="{{route('contact')}}"> <span class="elementor-icon-list-text">Contact Us</span> </a>
+                                                <a href="mailto:{{env('TO_EMAIL')}}"> <span class="elementor-icon-list-text">Contact Us</span> </a>
                                             </li>
                                         </ul>
                                     </div>
