@@ -1373,7 +1373,7 @@
                                     >
                                         <div class="elementor-widget-container">
                                             <div class="elementor-button-wrapper">
-                                                <a href="http://gohat-studio.com/contact/" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-float" role="button">
+                                                <a href="{{route('contact')}}" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-float" role="button">
                                                     <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Contact Us</span> </span>
                                                 </a>
                                             </div>
