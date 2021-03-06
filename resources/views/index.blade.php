@@ -859,34 +859,6 @@
                                                         </div>
                                                     </div>
                                                 </section>
-                                                <div
-                                                    class="elementor-element elementor-element-657d9919 elementor-align-center elementor-widget elementor-widget-button"
-                                                    data-id="657d9919"
-                                                    data-element_type="widget"
-                                                    data-widget_type="button.default"
-                                                >
-                                                    <div class="elementor-widget-container">
-                                                        <div class="elementor-button-wrapper">
-                                                            <a href="http://gohat-studio.com/website-design-and-development/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-                                                                <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Corporate Website/App</span> </span>
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div
-                                                    class="elementor-element elementor-element-3e0369d2 elementor-align-center elementor-widget elementor-widget-button"
-                                                    data-id="3e0369d2"
-                                                    data-element_type="widget"
-                                                    data-widget_type="button.default"
-                                                >
-                                                    <div class="elementor-widget-container">
-                                                        <div class="elementor-button-wrapper">
-                                                            <a href="http://gohat-studio.com/ecommerce/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-                                                                <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">eCommerce Website</span> </span>
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
