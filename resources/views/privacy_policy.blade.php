@@ -1,6 +1,6 @@
 @extends('layout')
 @section('page-css')
-    <link rel="stylesheet" id="elementor-post-17-css" href="{{asset('assets/css/post-17.css')}}" type="text/css" media="all" />
+    <link rel="stylesheet" id="elementor-post-81-css" href="{{asset('assets/css/post-81.css')}}" type="text/css" media="all" />
     <link rel="stylesheet" id="elementor-post-167-css" href="{{asset('assets/css/post-167.css')}}" type="text/css" media="all" />
 @endsection
 @section('header')
@@ -469,20 +469,7 @@
                         <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-477c2f32" data-id="477c2f32" data-element_type="column">
                             <div class="elementor-column-wrap elementor-element-populated">
                                 <div class="elementor-widget-wrap">
-                                    <div
-                                        class="elementor-element elementor-element-776dd557 elementor-mobile-align-justify elementor-widget elementor-widget-button"
-                                        data-id="776dd557"
-                                        data-element_type="widget"
-                                        data-widget_type="button.default"
-                                    >
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-button-wrapper">
-                                                <a href="https://gohat-studio.com/quotation/" class="elementor-button-link elementor-button elementor-size-lg" role="button">
-                                                    <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Get Free Quote</span> </span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>
